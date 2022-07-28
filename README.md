@@ -30,14 +30,23 @@ This microservice creates an API that will take in someones birthday in the form
 
 ## Using the API
 Once you have run main.py you should see this in your terminal: 
+
 ![main.py running in terminal](/images/main.png)
+
 Copy this into your browser:
+
 ![main.py running in terminal](/images/url.png)
+
 This should appear:
+
 ![main.py running in terminal](/images/sign.png)
+
 Type "/generate/{month}{day}" after the url inserting your month in number format. It should look like this:
+
 ![main.py running in terminal](/images/date.png)
+
 If you have done everything right, the API should return your sign:
+
 ![main.py running in terminal](/images/return.png)
 
 ## UML Diagram
